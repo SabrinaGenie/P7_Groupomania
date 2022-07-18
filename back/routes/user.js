@@ -4,7 +4,7 @@ const auth = require('../middleware/auth');
 const multer = require('../middleware/multer-config'); 
 
 const userCtrl = require('../controllers/user');
-const pwdCtrl = require('../middleware/pwdControl');
+const pwdCtrl = require('../middleware/PwdControl');
 const max = require("../middleware/limiter");
 
 router.post('/auth/signup', pwdCtrl, userCtrl.signup);
