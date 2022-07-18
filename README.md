@@ -19,7 +19,7 @@ DB_NAME = groupomania
 
 
 
-1. Backend :
+1. Ouvrir le terminal dans le Backend :
 
 Exécuter les commandes :
 
@@ -29,7 +29,7 @@ Exécuter les commandes :
 - npm run start ou node app.js
 ```
 
-2. Frontend :
+2. Puis dans le Frontend :
 
 Exécuter les commandes :
 
