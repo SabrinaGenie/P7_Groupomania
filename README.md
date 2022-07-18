@@ -5,7 +5,9 @@ Les étapes pour lancer le projet :
 ## IMPORTANT :
 
 il faut installer sur votre systeme d'exploitation MySQL avant de lancer le backend.
+
 Créer ensuite un fichier .env dans le dossier back avec le contenu suivant :
+
 DB_HOST = localhost
 DB_USER = root
 DB_PASSWORD = ""
