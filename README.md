@@ -18,6 +18,9 @@ DB_PASSWORD = ""
 DB_NAME = groupomania
 
 
+Toujours dans le dossier back : Créez un dossier images vide (pour le stockage des iamges qui seront publiées sur le réseau)
+
+
 
 1. Ouvrir le terminal dans le Backend :
 
